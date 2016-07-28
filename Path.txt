@@ -1,0 +1,6 @@
+Trainee --> Programmer --> Team Lead...From her we need to decide..
+The path can go like this based on the above three
+
+Team Lead-->project manager-->account manager/Group lead-->Leadership team
+Team Lead-->Pre-sales team(a part of Project management team)-->sales team-->Leadership team
+Team Lead-->Busniess analyst/Sr.BA-->funtional expert/Technical architect-->Leadership team
